@@ -1,0 +1,61 @@
+{
+  "WBUI2": {
+    "settings": {
+      "iconurl": "https://raw.githubusercontent.com/daldito/mega-giga/main/daldito.png",
+      "openonstart": true,
+      "openonstartonlynewplayers": true,
+      "hideiconafter": 60,
+      "iconposition": 0,
+      "updateinterval": 12
+    },
+    "tabs": [
+      {
+        "layout": 1,
+        "buttontext": "¡Bienvenido al servidor!",
+        "imageurl": "https://raw.githubusercontent.com/daldito/mega-giga/main/tienda.jpg",
+        "content": [
+          {
+            "title": "Reglas del servidor",
+            "text": "¡Hola! Disfruta del servidor.\n\n- No griefing\n- Respeta a todos\n- Más info en Discord"
+          }
+        ]
+      },
+      {
+        "layout": 2,
+        "buttontext": "Mods",
+        "imageurl": "https://raw.githubusercontent.com/daldito/mega-giga/main/MODS.png",
+        "content": [
+          {
+            "title": "Lista de Mods",
+            "text": "MODS principales aquí."
+          },
+          {
+            "title": "Más Mods",
+            "text": "MODS 2 y 4 instalados."
+          }
+        ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "ARK ESPP",
+        "imageurl": "https://raw.githubusercontent.com/daldito/mega-giga/main/ARK%20ESPP.jpg",
+        "content": [
+          {
+            "title": "ARK ESPP",
+            "text": "Info del evento ESPP."
+          }
+        ]
+      }
+    ],
+    "links": [
+      {
+        "text": "Discord del servidor",
+        "url": "https://discord.gg/TU_DISCORD"
+      },
+      {
+        "text": "Tienda",
+        "url": "https://tu-tienda.com"
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "settings": {
+    "OpenButton": 0,
+    "HideIcon": false,
+    "HideIconAfter": 60,
+    "IconURL": "https://raw.githubusercontent.com/daldito/mega-giga/main/daldito.png",
+    "DisableIconText": false,
+    "IconPosition": 0,
+    "IconTextColor": 0,
+    "OpenOnStart": true,
+    "OpenOnStartOnlyNewPlayers": true,
+    "UpdateInterval": 12
+  },
+  "tabs": [
+    {
+      "tab1": {
+        "layout": 1,
+        "buttontext": "¡Reglas!",
+        "imageurl": "https://raw.githubusercontent.com/daldito/mega-giga/main/reglas.jpg",
+        "title1": "Reglas del Servidor",
+        "text1": "¡Bienvenido a Mega-Giga!\n\n1. No griefing ni toxicidad.\n2. Respeta a todos los jugadores.\n3. Usa Discord para reportes.\n4. Diviértete y sobrevive.\n\n¡Gracias por jugar!"
+      }
+    },
+    {
+      "tab2": {
+        "layout": 1,
+        "buttontext": "Rules (ENG)",
+        "imageurl": "https://raw.githubusercontent.com/daldito/mega-giga/main/rules_bqgukp.jpg",
+        "title1": "Server Rules",
+        "text1": "Welcome to Mega-Giga!\n\n1. No griefing or toxicity.\n2. Respect all players.\n3. Use Discord for reports.\n4. Have fun and survive.\n\nThanks for playing!"
+      }
+    },
+    {
+      "tab3": {
+        "layout": 1,
+        "buttontext": "ARK ESPP",
+        "imageurl": "https://raw.githubusercontent.com/daldito/mega-giga/main/ARK%20ESPP.jpg",
+        "title1": "Evento ESPP",
+        "text1": "¡Info del evento ARK ESPP!\n\nFecha: Próximamente.\nRecompensas: Items especiales.\nÚnete al Discord para detalles.\n\n¡Participa y gana!"
+      }
+    }
+  ],
+  "links": [
+    {
+      "link1": {
+        "text": "Discord del Servidor",
+        "url": "https://discord.gg/TU_ENLACE_AQUI"
+      }
+    },
+    {
+      "link2": {
+        "text": "Tienda (opcional)",
+        "url": "https://tu-tienda.com"
+      }
+    }
+  ]
+}
